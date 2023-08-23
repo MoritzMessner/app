@@ -73,8 +73,8 @@
             ]
         },
         {
-              "versionIOS": "1.1.1",
-            "versionANDROID": "1.1.2",
+              "versionIOS": "1.1.0",
+            "versionANDROID": "1.1.1",
             "changeLog": [
                 {
                     "type": "h1",
