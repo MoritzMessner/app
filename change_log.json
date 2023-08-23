@@ -73,7 +73,8 @@
             ]
         },
         {
-            "version": "1.1.0",
+              "versionIOS": "1.1.1",
+            "versionANDROID": "1.1.2",
             "changeLog": [
                 {
                     "type": "h1",
