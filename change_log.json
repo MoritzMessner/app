@@ -18,30 +18,21 @@
                 {
                     "type": "list",
                     "data": [
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing"
+                        "Statistiken zeigen richtige Werte für Übungen mit Körpergewicht",
+                        "Errinerung an Satzpause kann übersprungen werden",
+                        "Tage im Kalender werden nicht mehr abgeschnitten",
+                        "Mitteilungen können mehrmals am Tag erscheinen",
+                        "Schritte in Statistiken zeigen keinen negativen Wert mehr",
+                        "Datum in Kalender verschwindet nicht mehr",
+                        "Bild und Portionsgröße jedes Lebensmittels wird zuverlässig angezeigt",
+                        "Verbesserung der Performance",
+                        "Reduzierung des Akku-Verbrauchs im Training"
                     ]
                 },
+              
                 {
                     "type": "h4-left",
-                    "data": "Neue Features"
-                },
-                {
-                    "type": "list",
-                    "data": [
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing"
-                    ]
+                    "data": "Erweiterung der Errinerungen"
                 },
                 {
                     "type": "h3",
@@ -62,33 +53,20 @@
                 {
                     "type": "list",
                     "data": [
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing"
+                        "Erhalte Erinerrungen jetzt auch für alle 4 Mahlzeiten",
+                        "Bestimme selbst, welche Erinerrungen du erhalten möchstest",
+                        "Wähle den Zeitpunkt aus, um kein Training oder Mahlzeit mehr zu verpassen"
                     ]
-                },
-                {
-                    "type": "imageNetwork",
-                    "data": "https://images.pexels.com/photos/39671/physiotherapy-weight-training-dumbbell-exercise-balls-39671.jpeg"
-                },
-                {
-                    "type": "imageNetwork",
-                    "data": "https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif"
+                },  {
+                    "type": "h4-left",
+                    "data": "Anpassungen bei Ernährung"
                 },
                 {
                     "type": "list",
                     "data": [
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing",
-                        "Lorem ipsum dolor sit amet, consetetur sadipscing"
+                        "Getrackte Lebensmittel sind im nachhinein anpassbar",
+                        "Tracke jetzt auch ausgewählte Mikronährstoffe",
+                        "Getrackte Menge des Lebensmittels wird gespeichert"
                     ]
                 }
             ]
